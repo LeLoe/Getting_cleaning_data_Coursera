@@ -24,7 +24,7 @@ The mean value (number) per subject and activity of:
 mean(): Mean value
 std(): Standard deviation  
 
-of the following signals:   
+of the following signals, normalized and bounded within [-1,1]:   
 
 tBodyAcc-XYZ
 tGravityAcc-XYZ
